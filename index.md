@@ -4,6 +4,8 @@ My name is **Jiaxin Ye**, a 3rd year _CS major_ at UCSD. I think coding is ~~bor
 ## Quoting text
 My favorite quote is from Jobs: 
 >Stay foolish, stay hungry.<br>
+<br>
+
 ## Quoting code
 The first piece of code that I was exposed to is:
 ```
