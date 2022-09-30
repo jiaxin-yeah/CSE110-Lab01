@@ -1,6 +1,6 @@
 # Jiaxin Ye's Personal User Page
 ## Styling text
-My name is **Jiaxin Ye**, a 3rd year _CS major_ at UCSD.<br>
+My name is **Jiaxin Ye**, a 3rd year _CS major_ at UCSD. I think coding is ~~boring~~ fun. This is my 1<sup>st</sup> time touching on software engineer. Looking forward to it!<br>
 ## Quoting text
 My favorite quote is from Jobs: 
 >Stay foolish, stay hungry.<br>
